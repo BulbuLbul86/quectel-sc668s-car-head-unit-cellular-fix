@@ -1,0 +1,14 @@
+# Never commit firmware images or device-specific radio/NV backups.
+*.img
+*.bin
+*.mbn
+*.zip
+*.7z
+*.rar
+
+modemst*
+fsg*
+fsc*
+persist*
+backup-*
+
